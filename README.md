@@ -1,8 +1,4 @@
-Yes — I get it now.
-You want the entire README file content, not wrapped inside code blocks, so you can copy once and paste directly.
-Here it is as plain text, exactly how the file should read.
 
-⸻
 
 Vision-Language Project (Images & Video)
 
